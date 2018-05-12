@@ -1,0 +1,38 @@
+_repo: Irish-Plays-and-Playwrights_19028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weygandt, Cornelius
+    birthdate: 1871
+    deathdate: 1957
+    gutenberg_agent_id: '8413'
+    url: http://www.gutenberg.org/2009/agents/8413
+    wikipedia: http://www.pabook.libraries.psu.edu/LitMap/bios/Weygandt__Cornelius.html
+description: ''
+gutenberg_issued: '2006-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19028'
+  lccn: '13002333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish drama -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'English drama -- Irish authors -- History and criticism'
+- !lcsh 'Theater -- Ireland -- Dublin -- History'
+- !lcsh 'Dramatists, Irish -- Biography'
+tableOfContents: 'The Celtic renaissance -- The players and their plays, their audience
+  and their art -- Mr. William Butler Yeats -- Mr. Edward Martyn and Mr. George Moore
+  -- Mr. George W. Russell ("A. E.") -- Lady Gregory -- John Millington Synge -- The
+  younger dramatists: Mr. Padraic Colum; Mr. William Boyle; Mr. T.C. Murray; Mr. S.
+  Lennox Robinson; Mr. Rutherford Mayne; "Norreys Connnell"; Mr. St. John G. Ervine;
+  Mr. Joseph Campbell -- William Sharp ("Fiona Macleod") -- Appendix: Plays produced,
+  in Dublin, by the Abbey Theatre company and its predecessors.'
+title: Irish Plays and Playwrights
+url: http://www.gutenberg.org/ebooks/19028
