@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8413
     wikipedia: http://www.pabook.libraries.psu.edu/LitMap/bios/Weygandt__Cornelius.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19028#Irish-Plays-and-Playwrights
 gutenberg_issued: '2006-08-11'
 gutenberg_type: Text
 identifiers:
